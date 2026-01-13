@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Tenho **17 anos** e comecei minha trajetória na programação aos **14**, estudando por conta própria e descobrindo rapidamente uma verdadeira paixão por tecnologia. A primeira linguagem que aprendi foi **Python**, onde desenvolvi minha lógica, meus primeiros projetos e a base que me fez entender como o código realmente funciona.<br><br>Com o tempo, conheci o framework `Flask`, e isso despertou meu interesse pelo desenvolvimento **Web**. A partir daí explorei `HTML`, `CSS` e `JavaScript`, até chegar ao `Next.js`, que me mostrou como unir **back-end** e **front-end** em aplicações modernas e escaláveis.<br><br>Mais recentemente, comecei a me aprofundar em **Java**, estudando com dedicação conceitos de **orientação a objetos**, **boas práticas** e estruturação de aplicações mais robustas. Hoje, minhas principais linguagens são **Java** e **Python**, enquanto continuo expandindo meu conhecimento em `Next.js` e `MySQL`.<br><br>Atualmente curso **Engenharia de Software**, fortalecendo minha base teórica e complementando com estudos contínuos fora da faculdade. Sempre busco aprender algo novo, explorar tecnologias diferentes e evoluir como desenvolvedor em cada projeto que crio.</p>
+<p align="left">Tenho 17 anos e comecei minha trajetória na programação aos 14, estudando por conta própria e descobrindo rapidamente uma verdadeira paixão por tecnologia. A primeira linguagem que aprendi foi Python, onde desenvolvi minha lógica, meus primeiros projetos e a base que me fez entender como o código realmente funciona.<br><br>Com o tempo, conheci o framework <code>Flask</code>, e isso despertou meu interesse pelo desenvolvimento Web. A partir daí explorei <code>HTML</code>, <code>CSS</code> e <code>JavaScript</code>, até chegar ao <code>Next.js</code>, que me mostrou como unir back-end e front-end em aplicações modernas e escaláveis.<br><br>Mais recentemente, comecei a me aprofundar em Java, estudando com dedicação conceitos de orientação a objetos, boas práticas e estruturação de aplicações mais robustas. Hoje, minhas principais linguagens são Java e Python, enquanto continuo expandindo meu conhecimento em <code>Next.js</code> e <code>MySQL</code>.<br><br>Atualmente curso Engenharia de Software, fortalecendo minha base teórica e complementando com estudos contínuos fora da faculdade. Sempre busco aprender algo novo, explorar tecnologias diferentes e evoluir como desenvolvedor em cada projeto que crio.</p>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<p align="left">💻 Back-end developer<br>☕ Java, Python, Next.js<br>🧠 Arquitetura, OOP, APIs, automações<br>📚 Aprendizado contínuo e atualização constante<br>✔️ Código limpo, boas práticas e organização<br>🗣️ Inglês nível **intermediário/avançado** (leitura, escrita e comunicação técnica)</p>
+<p align="left">💻 Back-end developer<br>☕ Java, Python, Next.js<br>🧠 Arquitetura, OOP, APIs, automações<br>📚 Aprendizado contínuo e atualização constante<br>✔️ Código limpo, boas práticas e organização<br>🗣️ Inglês nível intermediário/avançado (leitura, escrita e comunicação técnica)</p>
 
 ###
