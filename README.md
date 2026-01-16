@@ -46,4 +46,5 @@
 
 <p align="left">💻 Back-end developer<br>☕ Java, Python, Next.js<br>🧠 Arquitetura, OOP, APIs, automações<br>📚 Aprendizado contínuo e atualização constante<br>✔️ Código limpo, boas práticas e organização<br>🗣️ Inglês nível intermediário/avançado (leitura, escrita e comunicação técnica)</p>
 
+
 ###
