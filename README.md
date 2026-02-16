@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 FullStack Developer -- Backend-Focused  | ☕ Java  | 🐍 Python <br><br>Amante da programação e desenvolvimento de sistemas! Venha conhecer um pouco mais sobre mim logo abaixo!</p>
+<p align="left">💻 FullStack | ☕ Java  | 🐍 Python <br><br>Amante da programação e desenvolvimento de sistemas! Venha conhecer um pouco mais sobre mim logo abaixo!</p>
 
 ###
 
